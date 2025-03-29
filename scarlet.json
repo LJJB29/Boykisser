@@ -1,0 +1,42 @@
+{
+  "repo_name": "BoyKisser",
+  "description": "A Scarlet repo for various sideloaded apps.",
+  "apps": [
+    {
+      "name": "EeveeSpotify",
+      "version": "5.9.1-9.0.30",
+      "down": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.9.1/EeveeSpotify-5.9.1-9.0.30.ipa",
+      "dev": "Eevee",
+      "icon": "https://raw.githubusercontent.com/ljjb29/BoyKisser/main/icons/eeveespotify.png",
+      "category": "Tweaked Apps",
+      "description": "A modified version of Spotify with extra features.",
+      "bundleID": "com.eevee.spotify",
+      "screenshots": [
+        "https://raw.githubusercontent.com/ljjb29/BoyKisser/main/screenshots/eeveespotify_1.png",
+        "https://raw.githubusercontent.com/ljjb29/BoyKisser/main/screenshots/eeveespotify_2.png"
+      ],
+      "contact": {
+        "web": "https://eeveedev.com",
+        "twitter": "https://twitter.com/eeveedev"
+      }
+    },
+    {
+      "name": "AnotherApp",
+      "version": "3.0",
+      "down": "https://www.mediafire.com/file/anotherapp.ipa/file",
+      "dev": "AnotherDev",
+      "icon": "https://raw.githubusercontent.com/ljjb29/BoyKisser/main/icons/anotherapp.png",
+      "category": "Games",
+      "description": "A fun game for iOS users.",
+      "bundleID": "com.anotherdev.anotherapp",
+      "screenshots": [
+        "https://raw.githubusercontent.com/ljjb29/BoyKisser/main/screenshots/anotherapp_1.png",
+        "https://raw.githubusercontent.com/ljjb29/BoyKisser/main/screenshots/anotherapp_2.png"
+      ],
+      "contact": {
+        "web": "https://anotherdev.com",
+        "twitter": "https://twitter.com/anotherdev"
+      }
+    }
+  ]
+}
