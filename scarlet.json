@@ -1,6 +1,8 @@
 {
+  "name": "BoyKisser",
   "repo_name": "BoyKisser",
   "description": "A Scarlet repo for various sideloaded apps.",
+  "icon": "https://raw.githubusercontent.com/ljjb29/BoyKisser/main/icons/repo_icon.png",
   "apps": [
     {
       "name": "EeveeSpotify",
