@@ -21,21 +21,21 @@
       }
     },
     {
-      "name": "AnotherApp",
-      "version": "3.0",
-      "down": "https://www.mediafire.com/file/anotherapp.ipa/file",
-      "dev": "AnotherDev",
+      "name": "Nugget (Mobile)",
+      "version": "2.0.1",
+      "down": "https://github.com/leminlimez/Nugget-Mobile/releases/download/v2.0.1/Nugget.ipa",
+      "dev": "Leminlimez",
       "icon": "https://raw.githubusercontent.com/ljjb29/BoyKisser/main/icons/anotherapp.png",
-      "category": "Games",
-      "description": "A fun game for iOS users.",
-      "bundleID": "com.anotherdev.anotherapp",
+      "category": "Tweaked Apps",
+      "description": "Unlock your device's full potential!",
+      "bundleID": "com.leminlimez.nugget",
       "screenshots": [
         "https://raw.githubusercontent.com/ljjb29/BoyKisser/main/screenshots/anotherapp_1.png",
         "https://raw.githubusercontent.com/ljjb29/BoyKisser/main/screenshots/anotherapp_2.png"
       ],
       "contact": {
-        "web": "https://anotherdev.com",
-        "twitter": "https://twitter.com/anotherdev"
+        "web": "https://github.com/leminlimez/Nugget-Mobile",
+        "twitter": "https://x.com/LeminLimez"
       }
     }
   ]
