@@ -12,7 +12,6 @@
       "icon": "https://raw.githubusercontent.com/ljjb29/BoyKisser/main/icons/eeveespotify.png",
       "category": "Tweaked Apps",
       "description": "A modified version of Spotify with extra features.",
-      "changelog": "- Updated Polish localization by @HackZy01 - Updated Nepalese localization by @avishekrijal - Updated Italian localization by @gocciolafr"
       "bundleID": "com.eevee.spotify",
       "screenshots": [
         "https://raw.githubusercontent.com/ljjb29/BoyKisser/main/screenshots/eeveespotify_1.png",
