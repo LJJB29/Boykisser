@@ -42,21 +42,21 @@
     },
     {
       "name": "Dopamine",
-      "version": "2.0.11",
-      "down": "https://github.com/palei9k/dopamine/releases/download/2.0.11/Dopamine.ipa",
+      "version": "2.2.2",
+      "icon": "https://ellekit.space/dopamine/assets/icon.png",
+      "down": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa",
       "dev": "opa334",
-      "icon": "https://raw.githubusercontent.com/ljjb29/BoyKisser/main/icons/dopamine.png",
-      "category": "Jailbreak",
-      "description": "A semi-untethered jailbreak for A12-A15 devices running iOS 15.0-15.4.1.",
-      "bundleID": "me.opa334.dopamine",
+      "category": "Jailbreaks",
+      "description": "iOS 15.0 - 16.6.1 jailbreak",
+      "bundleID": "com.opa334.Dopamine",
       "screenshots": [
-        "https://raw.githubusercontent.com/ljjb29/BoyKisser/main/screenshots/dopamine_1.png",
-        "https://raw.githubusercontent.com/ljjb29/BoyKisser/main/screenshots/dopamine_2.png"
+        "https://ellekit.space/dopamine/assets/screenshot_one.png",
+        "https://ellekit.space/dopamine/assets/screenshot_two.png"
       ],
-      "contact": {
-        "web": "https://github.com/palei9k/dopamine",
-        "twitter": "https://x.com/opa334dev"
-      }
+      "contact": [
+        "https://ellekit.space/dopamine/",
+        "https://twitter.com/opa334dev"
+      ]
     }
   ]
 }
