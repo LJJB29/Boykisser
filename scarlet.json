@@ -75,6 +75,56 @@
         "web": "https://ellekit.space/dopamine/",
         "twitter": "https://twitter.com/opa334dev"
       }
-    }
-  ]
-}
+    },
+    {
+      "name": "Delta",
+      "version": "1.2",
+      "down": "https://altstore.io/download/delta.ipa",
+      "dev": "Riley Testut",
+      "icon": "https://altstore.io/assets/delta-icon.png",
+      "category": "Emulators",
+      "description": "A powerful emulator supporting multiple gaming systems.",
+      "bundleID": "com.rileytestut.delta",
+      "screenshots": [
+        "https://altstore.io/assets/delta-screenshot1.png",
+        "https://altstore.io/assets/delta-screenshot2.png"
+      ],
+      "contact": {
+        "web": "https://altstore.io",
+        "twitter": "https://twitter.com/rileytestut"
+      }
+    },
+    {
+      "name": "uYou",
+      "version": "3.0",
+      "down": "https://github.com/qnblackcat/uYou/releases/download/v3.0/uYou.ipa",
+      "dev": "qnblackcat",
+      "icon": "https://github.com/qnblackcat/uYou/raw/main/Icon.png",
+      "category": "Tweaked Apps",
+      "description": "A modified YouTube app with enhanced features.",
+      "bundleID": "com.qnblackcat.uYou",
+      "screenshots": [
+        "https://github.com/qnblackcat/uYou/raw/main/Screenshots/screenshot1.png",
+        "https://github.com/qnblackcat/uYou/raw/main/Screenshots/screenshot2.png"
+      ],
+      "contact": {
+        "web": "https://github.com/qnblackcat/uYou",
+        "twitter": "https://twitter.com/qnblackcat"
+      }
+    },
+    {
+      "name": "iTorrent",
+      "version": "1.8",
+      "down": "https://github.com/XITRIX/iTorrent/releases/download/v1.8/iTorrent.ipa",
+      "dev": "XITRIX",
+      "icon": "https://github.com/XITRIX/iTorrent/raw/master/Artwork/AppIcon.png",
+      "category": "Utilities",
+      "description": "A torrent client for iOS devices.",
+      "bundleID": "ru.xitrix.iTorrent",
+      "screenshots": [
+        "https://github.com/XITRIX/iTorrent/raw/master/Artwork/Screenshot1.png",
+        "https://github.com/XITRIX/iTorrent/raw/master/Artwork/Screenshot2.png"
+      ],
+      "contact": {
+        "web": "https://github.com/XITRIX/iTorrent",
+        "twitter": "https://twitter.com 
