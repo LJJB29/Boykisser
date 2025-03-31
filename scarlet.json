@@ -40,13 +40,14 @@
         "twitter": "https://x.com/LeminLimez"
       }
     },
-    "name": "RetroArch",
+    {
+      "name": "RetroArch",
       "version": "1.0",
       "down": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
       "dev": "libretro",
       "icon": "https://m.media-amazon.com/images/I/31fvrQVPcfL.png",
       "category": "Emulators",
-      "description": "RetroArch is a frontend for emulators, game engines and media players.",
+      "description": "RetroArch is a frontend for emulators, game engines, and media players.",
       "bundleID": "com.libretro.retroarch",
       "screenshots": [
         "https://raw.githubusercontent.com/ljjb29/BoyKisser/main/screenshots/anotherapp_1.png",
@@ -54,8 +55,9 @@
       ],
       "contact": {
         "web": "https://www.retroarch.com",
-        "twitter": "https://x.com/retroarch"
+        "twitter": "https://x.com/libretro"
       }
+    },
     {
       "name": "Dopamine",
       "version": "2.2.2",
@@ -69,10 +71,10 @@
         "https://ellekit.space/dopamine/assets/screenshot_one.png",
         "https://ellekit.space/dopamine/assets/screenshot_two.png"
       ],
-      "contact": [
-        "https://ellekit.space/dopamine/",
-        "https://twitter.com/opa334dev"
-      ]
+      "contact": {
+        "web": "https://ellekit.space/dopamine/",
+        "twitter": "https://twitter.com/opa334dev"
+      }
     }
   ]
 }
